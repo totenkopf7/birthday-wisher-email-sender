@@ -1,0 +1,10 @@
+Hey [NAME],
+
+Happy birthday! Have a wonderful time today and eat lots of cake!
+It might not be your birthday anyway, I just wrote this tool in Python to test it on you,
+well, if you don't, mind..!
+
+"Don't forget what is in your mind, there are always great things going on in your head"
+
+Regards,
+Coder
